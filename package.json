@@ -1,0 +1,8 @@
+{
+  "name": "aimex-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Static site — no build needed'",
+    "start": "npx serve . -p 3000 -s"
+  }
+}
